@@ -1,14 +1,5 @@
-- 👋 Hi, I’m @CongoMusahAdama
-- 👀 I’m interested in ... Connecting with devs, coming together and solve programing issues related to backend.
-- 🌱 I’m currently learning ... Fastapi framework using python language
-- 💞️ I’m looking to collaborate on ... FastAPI PROJECT, GIGS and tutorial guides.
-  
-- 📫 How to reach me ... here are my handles you can reach me on.
-- TWITTER: @1real_vee
-- FACEBOOK: CALMBOI VEE
-- LINKEDIN: Musah Adama Congo
-- you can send a dm on whatsap @ +233 50 915 4727
-- THANK YOU. let's connect
+I am Congo Musah Adama (Big M), Passionate backend engineer with a strong command of Python, JavaScript, and PHP. 💻 Experienced in developing robust and scalable web applications, I thrive on solving complex problems and optimizing code for efficiency. 🚀 With a keen eye for detail and a commitment to clean coding practices, I strive to deliver high-quality solutions that exceed expectations. 🌟 Constantly learning and exploring new technologies, I stay up-to-date with the latest industry trends to ensure innovative and cutting-edge development. Let's connect and collaborate on exciting projects! 👨‍💻"
+
 
 <!---
 CongoMusahAdama/CongoMusahAdama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
