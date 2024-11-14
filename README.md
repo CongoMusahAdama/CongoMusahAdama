@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Congo Musah Adama 👋
 
 Highly motivated and experienced self-taught backend software engineer with a strong passion for building scalable, efficient, and reliable software systems. Proficient in designing and developing robust architectures, microservices, and APIs. Skilled in languages such as Python, JavaScript, PHP with expertise in frameworks like Django, FastAPI, and Node.js. Profound understanding of database systems, cloud computing, and Machine Learning. Excellent problem-solving skills, with a keen eye for detail and a commitment to delivering high-quality solutions.
 
@@ -12,7 +12,7 @@ I'm always eager to collaborate on exciting projects, learn new technologies, an
 ---
 
 ## 🚀 Current Focus
-- **Backend Development** for LbH LINC Software(s) (Mobile & Web)
+- **Backend Development** for LbH LINC Software(AgriTech) (Mobile & Web)
 - **PHP/Laravel Mobile Development**
 - **Web Development with Node.js, Laravel, and Docker**
 
@@ -22,12 +22,13 @@ I'm always eager to collaborate on exciting projects, learn new technologies, an
 - **Mobile Development (Flutter)**
 - **Cloud Computing & AWS**
 - **Machine Learning**
+- **PHP-laravel**
 
 ---
 
 ## ⚡ Fun Facts
 - 🎶 I love music, but not when locked in... but don't tell anyone 😉
-- 🏀 I'm a big fan of basketball!
+- 🏀 Sometimes i touch grass!
 
 ---
 
@@ -50,7 +51,7 @@ Here are the technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?CongoMusahAdama=CongoMusahAdama&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?@CongoMusahAdama=CongoMusahAdama&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
