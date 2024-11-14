@@ -51,7 +51,10 @@ Here are the technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?@CongoMusahAdama=CongoMusahAdama&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+!## 📊 GitHub Stats
+
+![CongoMusahAdama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CongoMusahAdama&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 
 ---
 
