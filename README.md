@@ -61,5 +61,5 @@ Here are the technologies I work with:
 ## 🔗 Socials
 - GitHub: [Your GitHub](https://github.com/CongoMusahAdama)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/musah-congo-766bb3224)
-- Twitter: [@YourTwitterHandle](https://twitter.com/@ireal_vee)
+- Twitter: [@YourTwitterHandle](https://twitter.com/@1real_vee)
 - Website/Portfolio: Under constrution ...
