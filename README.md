@@ -11,11 +11,6 @@ I'm always eager to collaborate on exciting projects, learn new technologies, an
 
 ---
 
-## 🚀 Current Focus
-- **Backend Development** for LbH LINC Software(AgriTech) (Mobile & Web)
-- **PHP/Laravel Mobile Development**
-- **Web Development with Node.js, Laravel, and Docker**
-
 ---
 
 ## 🧠 I'm currently learning:
